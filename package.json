@@ -1,5 +1,5 @@
 {
-  "name": "@sgoumaz/metalsmith-markdownit",
+  "name": "@attentif/metalsmith-markdownit",
   "description": "A Metalsmith plugin to convert markdown files.",
   "repository": "git://github.com/mayo/metalsmith-markdownit.git",
   "version": "0.6.0",
