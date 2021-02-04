@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mayo/metalsmith-markdownit.svg?branch=master)](https://travis-ci.org/mayo/metalsmith-markdownit)
+[![Build Status](https://travis-ci.org/attentif/metalsmith-markdownit.svg?branch=master)](https://travis-ci.org/attentif/metalsmith-markdownit)
 
 # metalsmith-markdownit
 
