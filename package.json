@@ -2,7 +2,7 @@
   "name": "@attentif/metalsmith-markdownit",
   "description": "A Metalsmith plugin to convert markdown files.",
   "repository": "git://github.com/attentif/metalsmith-markdownit.git",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
